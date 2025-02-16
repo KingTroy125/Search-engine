@@ -1,6 +1,6 @@
 # Search Engine Project
 
-![Uploading 327shots_so.png…]()
+![327shots_so](https://github.com/user-attachments/assets/cbc65aba-5914-4050-851f-c89f53dde84c)
 
 ## Overview
 This is a search engine web application built using **React.js** and **Vite.js**. It allows users to search for information and images using an API, with **Pixel** integrated for image searches.
